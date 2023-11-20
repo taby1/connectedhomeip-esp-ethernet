@@ -17,7 +17,7 @@
 #include "esp_eth.h"
 #include "esp_eth_mac.h"
 #include "esp_eth_phy.h"
-#include <platform/ESP32/NetworkCommissioningDriver.h>
+#include <platform/ESP32/NetworkCommissioningDriver_Ethernet.h>
 
 using namespace ::chip;
 using namespace ::chip::DeviceLayer::Internal;
